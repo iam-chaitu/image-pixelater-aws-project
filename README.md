@@ -41,6 +41,8 @@ Pixelation can be useful in several scenarios, including:
 ### Stage 3 - Create and Configure the Lambda Function
 
 ### Stage 4 - Test and Monitor
+pixelater images generated when a new image is uploaded in the source s3 bucket
+![image](https://github.com/user-attachments/assets/a0f3ea1d-4cf9-4536-b7f3-f6f1a4801c86)
 
 ## Outcome:
 By the end of this project, you will have a complete event-driven image processing pipeline capable of automatically pixelating images at multiple resolutions, with the processed images stored in a separate S3 bucket. This architecture is scalable, efficient, and can be adapted for other image processing tasks, providing a practical example of serverless computing in action.
