@@ -24,6 +24,7 @@ Pixelation can be useful in several scenarios, including:
 ### Stage 1: Create the S3 Buckets
   * Bucket 1: amc-image-pixelater-source
   * Bucket 2: amc-image-pixelater-processed
+![S3 buckets](https://github.com/user-attachments/assets/a1a6814c-7e27-4a3f-b00d-d75946b87a58)
 
 ### Stage 2: Develop the Lambda Function Code:
   * Create a folder named ```my_lambda_deployment```.
