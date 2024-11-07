@@ -36,6 +36,7 @@ Pixelation can be useful in several scenarios, including:
   * Run ```unzip Pillow-9.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl``` and then ```rm Pillow-9.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl```. These are the Pillow module files required for image manipulation in Python 3.9 (which the lambda function will be using).
   * From the same folder, run ```zip -r ../my-deployment-package.zip .``` which will create a lambda function zip, containing all these files in the parent directory.
   * This zip will be the same zip which is linked below, so if you have any issues with the lambda function, you can use the one that's pre-created.
+![.zip file upload to the s3 code bucket](https://github.com/user-attachments/assets/97c38211-3ccb-4215-a5fd-573043379a7a)
 
 ### Stage 3 - Create and Configure the Lambda Function
 
