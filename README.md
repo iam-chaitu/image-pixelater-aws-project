@@ -39,6 +39,7 @@ Pixelation can be useful in several scenarios, including:
 ![.zip file upload to the s3 code bucket](https://github.com/user-attachments/assets/97c38211-3ccb-4215-a5fd-573043379a7a)
 
 ### Stage 3 - Create and Configure the Lambda Function
+![image](https://github.com/user-attachments/assets/64e41ab1-8340-419e-a3b1-a15085922ea2)
 
 ### Stage 4 - Test and Monitor
 pixelater images generated when a new image is uploaded in the source s3 bucket
